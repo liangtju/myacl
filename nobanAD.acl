@@ -109,6 +109,7 @@
 (^|\.)khm3\.googleapis\.com$
 (^|\.)khmdb\.google\.com$
 (^|\.)khmdb\.googleapis\.com$
+(^|\.)mtalk\.google\.com$
 (^|\.)maolin-nsa\.gov\.tw$
 (^|\.)matsu-nsa\.gov\.tw$
 (^|\.)matsucc\.gov\.tw$
@@ -127,6 +128,8 @@
 (^|\.)yda\.gov\.tw$
 
 # Accelerate direct sites
+(^|\.)www\.qq\.com$
+(^|\.)mail\.qq\.com$
 (^|\.)12306\.com$
 (^|\.)126\.net$
 (^|\.)163\.com$
