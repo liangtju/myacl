@@ -250,6 +250,7 @@
 (^|\.)khmdb\.google\.com$
 (^|\.)khmdb\.googleapis\.com$
 (^|\.)mtalk\.google\.com$
+mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
 (^|\.)redirector\.gvt1\.com$
