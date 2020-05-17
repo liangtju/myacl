@@ -6990,7 +6990,7 @@
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
-(^|\.)\w*google\w*\.\w*$
+#(^|\.)\w*google\w*\.\w*$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*porn\w*\.\w*$
 (^|\.)\w*sci-hub\w*\.\w*$
