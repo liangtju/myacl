@@ -27,8 +27,7 @@
 #**********************************************************************
 [bypass_list]
 # 直连列表
-(^|\.)yande\.re$
-(^|\.)test-ipv6\.com$
+
 
 # MyList
 (^|\.)423down\.com$
@@ -252,7 +251,6 @@
 (^|\.)khmdb\.google\.com$
 (^|\.)khmdb\.googleapis\.com$
 (^|\.)mtalk\.google\.com$
-mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
 (^|\.)redirector\.gvt1\.com$
