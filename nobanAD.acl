@@ -6946,6 +6946,9 @@
 # 代理列表
 
 # MyList
+(^|\.)qq\.com$
+(^|\.)wechat\.com$
+(^|\.)weixin\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
