@@ -28,6 +28,7 @@
 [bypass_list]
 # 直连列表
 (^|\.)yande\.re$
+(^|\.)test-ipv6\.com$
 
 # MyList
 (^|\.)423down\.com$
