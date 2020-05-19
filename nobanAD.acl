@@ -406,29 +406,6 @@
 (^|\.)steamcdn-a\.akamaihd\.net$
 (^|\.)steamstat\.us$
 
-# Tencent
-(^|\.)foxmail\.com$
-(^|\.)gtimg\.cn$
-(^|\.)gtimg\.com$
-(^|\.)idqqimg\.com$
-(^|\.)igamecj\.com$
-(^|\.)myapp\.com$
-(^|\.)myqcloud\.com$
-#(^|\.)qlogo\.cn$
-(^|\.)qpic\.cn$
-#(^|\.)qq\.com$
-(^|\.)qqmail\.com$
-(^|\.)qqurl\.com$
-(^|\.)qtimg\.cn$
-(^|\.)smtcdns\.com$
-(^|\.)soso\.com$
-(^|\.)tencent-cloud\.net$
-(^|\.)tencent\.com$
-(^|\.)tencentmind\.com$
-(^|\.)tenpay\.com$
-#(^|\.)wechat\.com$
-#(^|\.)weixin\.com$
-(^|\.)weiyun\.com$
 
 # Vip 唯品会
 (^|\.)appsimg\.com$
@@ -886,6 +863,8 @@
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
+(^|\.)\w*wechat\w*\.\w*$
+(^|\.)\w*weixin\w*\.\w*$
 
 # Top Blocked Sites
 (^|\.)4sqi\.net$
